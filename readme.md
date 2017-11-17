@@ -1,4 +1,4 @@
-##Basic Algorithms##
+## Basic Algorithms ##
 
 Implementation of basic algorithms like Bubble Sort, Linear Search and Index Swapping using Ruby and RSpec
 
